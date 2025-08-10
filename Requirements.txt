@@ -1,3 +1,6 @@
+کل محتوای فایل `requirements.txt` شما اینه:
+
+```
 # Server Dashboard Requirements
 # Flask framework and extensions
 Flask==2.3.3
@@ -56,3 +59,4 @@ gevent-websocket==0.10.1
 # Development dependencies (optional)
 # watchdog==3.0.0
 # pytest==7.4.3
+```
